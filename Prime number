@@ -15,11 +15,7 @@ class HelloWorld {
       if (flag1>0)
         System.out.println("not a prime");
       else
-        System.out.println("primee");
-      while(num==0||num==1)
-      {
-          System.out.println("Prime");
-          break;
+        System.out.println("prime");
       }
    }
 }
